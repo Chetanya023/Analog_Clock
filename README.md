@@ -1,30 +1,30 @@
-ANALOG CLOCK
+# ANALOG CLOCK
 
-Overview:
+# Overview:
 
 • Developed an analog clock using MATLAB with a clean and simple interface.
 
 • The clock includes a circle representing the hours and minute markers, offering an intuitive visualization.
 
-Time Display:
+# Time Display:
 
 • Implemented a real-time clock functionality, displaying hours, minutes, and seconds.
 
 • The clock hands dynamically adjust based on the system time, creating a visually appealing representation.
 
-Interactive Elements:
+# Interactive Elements:
 
 • Incorporated interactive elements for user engagement.
 
 • The clock includes hour indicators (1-12) on an inner circle, making it both functional and aesthetically pleasing.
 
-Versatility:
+# Versatility:
 
 • Demonstrated versatility by enabling easy adjustments and customizations.
 
 • Users can modify the clock's appearance or integrate it into other MATLAB projects seamlessly.
 
-Usage Instructions:
+# Usage Instructions:
 
 • The MATLAB code is well-documented, providing clarity on how to run and customize the analog clock.
 
